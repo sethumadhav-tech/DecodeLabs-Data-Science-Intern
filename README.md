@@ -28,7 +28,7 @@ Through this project, I applied the complete data analytics workflow—from data
 ## 🛠️ Tools & Technologies
 
 * Python
-* Jupyter Notebook
+* Google Colab
 * Pandas
 * NumPy
 * Matplotlib
